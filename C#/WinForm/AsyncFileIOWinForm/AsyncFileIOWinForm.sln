@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncFileIOWinForm", "AsyncFileIOWinForm\AsyncFileIOWinForm.csproj", "{B62D3062-EB5D-44B8-8D26-D3EE7FE9C120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62D3062-EB5D-44B8-8D26-D3EE7FE9C120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62D3062-EB5D-44B8-8D26-D3EE7FE9C120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62D3062-EB5D-44B8-8D26-D3EE7FE9C120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62D3062-EB5D-44B8-8D26-D3EE7FE9C120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD4D98F-F5B8-40A1-86C5-1CC347809A76}
+	EndGlobalSection
+EndGlobal
